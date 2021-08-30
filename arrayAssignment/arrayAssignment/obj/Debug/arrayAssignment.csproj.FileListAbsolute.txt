@@ -1,0 +1,7 @@
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\bin\Debug\arrayAssignment.exe.config
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\bin\Debug\arrayAssignment.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\bin\Debug\arrayAssignment.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\obj\Debug\arrayAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\obj\Debug\arrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\obj\Debug\arrayAssignment.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\arrayAssignment\arrayAssignment\obj\Debug\arrayAssignment.pdb

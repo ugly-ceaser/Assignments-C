@@ -1,0 +1,14 @@
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\bin\Debug\Assignment3i.exe.config
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\bin\Debug\Assignment3i.exe
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\bin\Debug\Assignment3i.pdb
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\obj\Debug\Assignment3i.csprojResolveAssemblyReference.cache
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\obj\Debug\Assignment3i.csproj.CoreCompileInputs.cache
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\obj\Debug\Assignment3i.exe
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Assignment3i\Assignment3i\obj\Debug\Assignment3i.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\bin\Debug\Assignment3i.exe.config
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\bin\Debug\Assignment3i.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\bin\Debug\Assignment3i.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\obj\Debug\Assignment3i.csprojResolveAssemblyReference.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\obj\Debug\Assignment3i.csproj.CoreCompileInputs.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\obj\Debug\Assignment3i.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\Assignment3i\Assignment3i\obj\Debug\Assignment3i.pdb

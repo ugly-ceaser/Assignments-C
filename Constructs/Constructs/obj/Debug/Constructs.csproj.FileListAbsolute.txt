@@ -1,0 +1,14 @@
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\bin\Debug\Constructs.exe.config
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\bin\Debug\Constructs.exe
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\bin\Debug\Constructs.pdb
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\obj\Debug\Constructs.csprojResolveAssemblyReference.cache
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\obj\Debug\Constructs.csproj.CoreCompileInputs.cache
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\obj\Debug\Constructs.exe
+C:\Users\ANEKE CYNTHIA\source\repos\ASSIGNMENTS\Constructs\Constructs\obj\Debug\Constructs.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\bin\Debug\Constructs.exe.config
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\bin\Debug\Constructs.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\bin\Debug\Constructs.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\obj\Debug\Constructs.csprojResolveAssemblyReference.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\obj\Debug\Constructs.csproj.CoreCompileInputs.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\obj\Debug\Constructs.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\Constructs\Constructs\obj\Debug\Constructs.pdb

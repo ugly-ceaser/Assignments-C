@@ -1,0 +1,7 @@
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\bin\Debug\StatementsAndOperators.exe.config
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\bin\Debug\StatementsAndOperators.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\bin\Debug\StatementsAndOperators.pdb
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\obj\Debug\StatementsAndOperators.csprojResolveAssemblyReference.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\obj\Debug\StatementsAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\obj\Debug\StatementsAndOperators.exe
+C:\Users\Martins Onyia\Desktop\Assignments C\StatementsAndOperators\StatementsAndOperators\obj\Debug\StatementsAndOperators.pdb
